@@ -1,0 +1,6 @@
+181040010,rachana,ewt
+181040011,jai,ewt
+181040004,harshita,ewt
+18104007,pooja,ewt
+
+181040009,nakshatra,ewt
